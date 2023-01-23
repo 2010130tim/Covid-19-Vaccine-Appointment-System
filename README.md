@@ -6,5 +6,5 @@ This appointment system has following functions:
 ## Files
 ***create.sql***: SQL tables use in this system   
 ***Scheduler.py***: main functions   
-***Availability, Caregiver, Patient, Vaccine***: subfunctions
+***Availability, Caregiver, Patient, Vaccine***: subfunctions   
 ***ConnectionManager***: connect to Azure
